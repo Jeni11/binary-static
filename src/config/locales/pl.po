@@ -7,14 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2015-03-22 18:59+0200\n"
+"PO-Revision-Date: 2015-03-25 10:32+0200\n"
 "Last-Translator: Ewelina Bruździak <e.bruzdziak@gmail.com>\n"
-"Language-Team: Polish <https://hosted.weblate.org/projects/binary/static/pl/>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/binary/static/pl/>"
+"\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 2.3-dev\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
@@ -498,7 +500,6 @@ msgstr ""
 " </ul>"
 
 #: /home/git/translations/binary-static/src/templates/toolkit/affiliates/faq.html.tt:27
-#, fuzzy
 #| msgid ""
 #| "<p>In only a short space of time since their inception, binary options are fast becoming a popular trading product. The numerous binary options trading platforms subsequently being created support this growing trend. By becoming an affiliate now you can profit from the fast growth of interest in this new industry.</p> \n"
 #| "    <p>Binary options trading is a high profit market where there's a place for everyone [including you] to take a cut of the pie!</p>"
@@ -506,8 +507,12 @@ msgid ""
 "<p>In only a short space of time since their inception, binary options are fast becoming a popular trading product. The numerous binary options trading platforms subsequently being created support this growing trend. By becoming an affiliate now you can profit from the fast growth of interest in this new industry.</p>\n"
 "    <p>Binary options trading is a high profit market where there's a place for everyone [including you] to take a cut of the pie!</p>"
 msgstr ""
-"<p>Bardzo szybko po pojawieniu się na rynku opcje binarne stały się popularnym produktem handlowym. Potwierdza to fakt powstawania kolejnych platform handlu opcjami binarnymi. Współpracując z nami, możesz korzystać z szybkiego rozwoju tego segmentu rynku.</p> \n"
-"  <p>Opcje binarne to rynek wysokich zysków, gdzie dla każdego (także dla Ciebie) znajdzie się miejsce!</p>"
+"<p>Bardzo szybko po pojawieniu się na rynku opcje binarne stały się "
+"popularnym produktem handlowym. Potwierdza to fakt powstawania kolejnych "
+"platform handlu opcjami binarnymi. Współpracując z nami, możesz korzystać z "
+"szybkiego rozwoju tego segmentu rynku.</p> \n"
+"  <p>Opcje binarne to rynek wysokich zysków, gdzie dla każdego (także dla "
+"Ciebie) znajdzie się miejsce!</p>"
 
 #: /home/git/regentmarkets/bom-app/lost_password.cgi:426
 msgid "<p>Please take a moment to verify your identity by providing us with the correct answer to your secret question and date of birth, below.</p>"
@@ -10918,10 +10923,9 @@ msgid "German vs Dutch Index"
 msgstr "Indeks niemiecki vs holenderski"
 
 #: Underlying Symbol OPIDAXFTSE
-#, fuzzy
 #| msgid "Germany Stocks"
 msgid "German vs UK Index"
-msgstr "Akcje niemieckie"
+msgstr "indeks niemiecki vs brytyjski"
 
 #: Underlying Symbol OPIDAXSMI
 msgid "German vs Swiss Index"
